@@ -1,0 +1,7 @@
+C:\Users\sasha\Documents\Visual Studio 2012\Projects\LockFreeStack\StackTest\obj\Debug\StackTest.csprojResolveAssemblyReference.cache
+C:\Users\sasha\Documents\Visual Studio 2012\Projects\LockFreeStack\StackTest\bin\Debug\StackTest.dll
+C:\Users\sasha\Documents\Visual Studio 2012\Projects\LockFreeStack\StackTest\bin\Debug\StackTest.pdb
+C:\Users\sasha\Documents\Visual Studio 2012\Projects\LockFreeStack\StackTest\bin\Debug\LockFreeStack.dll
+C:\Users\sasha\Documents\Visual Studio 2012\Projects\LockFreeStack\StackTest\bin\Debug\LockFreeStack.pdb
+C:\Users\sasha\Documents\Visual Studio 2012\Projects\LockFreeStack\StackTest\obj\Debug\StackTest.dll
+C:\Users\sasha\Documents\Visual Studio 2012\Projects\LockFreeStack\StackTest\obj\Debug\StackTest.pdb

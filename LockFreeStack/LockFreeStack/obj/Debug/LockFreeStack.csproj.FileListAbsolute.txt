@@ -1,0 +1,5 @@
+C:\Users\sasha\Documents\Visual Studio 2012\Projects\LockFreeStack\LockFreeStack\obj\Debug\LockFreeStack.csprojResolveAssemblyReference.cache
+C:\Users\sasha\Documents\Visual Studio 2012\Projects\LockFreeStack\LockFreeStack\bin\Debug\LockFreeStack.dll
+C:\Users\sasha\Documents\Visual Studio 2012\Projects\LockFreeStack\LockFreeStack\bin\Debug\LockFreeStack.pdb
+C:\Users\sasha\Documents\Visual Studio 2012\Projects\LockFreeStack\LockFreeStack\obj\Debug\LockFreeStack.dll
+C:\Users\sasha\Documents\Visual Studio 2012\Projects\LockFreeStack\LockFreeStack\obj\Debug\LockFreeStack.pdb
