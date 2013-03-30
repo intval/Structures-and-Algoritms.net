@@ -14,6 +14,7 @@ namespace TestingProject
             testClass.testIntSorting();
         }
 
+        /*
         [TestMethod]
         public void testItsQuadraticTime()
         {
@@ -21,5 +22,6 @@ namespace TestingProject
             double growth = testClass.performanceGrowth();
             Assert.AreEqual(2, growth, 0.05);
         }
+        */
     }
 }
