@@ -8,3 +8,13 @@ C:\Users\sasha\Documents\Visual Studio 2012\Projects\Sorting\TestingProject\obj\
 C:\Users\sasha\Documents\Visual Studio 2012\Projects\Sorting\TestingProject\bin\Debug\Moq.dll
 C:\Users\sasha\Documents\Visual Studio 2012\Projects\Sorting\TestingProject\bin\Debug\Moq.pdb
 C:\Users\sasha\Documents\Visual Studio 2012\Projects\Sorting\TestingProject\bin\Debug\Moq.xml
+C:\Users\sasha\Documents\Visual Studio 2012\Projects\structures-and-algorithms\Sorting\TestingProject\bin\Debug\TestingProject.dll
+C:\Users\sasha\Documents\Visual Studio 2012\Projects\structures-and-algorithms\Sorting\TestingProject\bin\Debug\TestingProject.pdb
+C:\Users\sasha\Documents\Visual Studio 2012\Projects\structures-and-algorithms\Sorting\TestingProject\bin\Debug\Moq.dll
+C:\Users\sasha\Documents\Visual Studio 2012\Projects\structures-and-algorithms\Sorting\TestingProject\bin\Debug\Sorting.dll
+C:\Users\sasha\Documents\Visual Studio 2012\Projects\structures-and-algorithms\Sorting\TestingProject\bin\Debug\Sorting.pdb
+C:\Users\sasha\Documents\Visual Studio 2012\Projects\structures-and-algorithms\Sorting\TestingProject\bin\Debug\Moq.pdb
+C:\Users\sasha\Documents\Visual Studio 2012\Projects\structures-and-algorithms\Sorting\TestingProject\bin\Debug\Moq.xml
+C:\Users\sasha\Documents\Visual Studio 2012\Projects\structures-and-algorithms\Sorting\TestingProject\obj\Debug\TestingProject.csprojResolveAssemblyReference.cache
+C:\Users\sasha\Documents\Visual Studio 2012\Projects\structures-and-algorithms\Sorting\TestingProject\obj\Debug\TestingProject.dll
+C:\Users\sasha\Documents\Visual Studio 2012\Projects\structures-and-algorithms\Sorting\TestingProject\obj\Debug\TestingProject.pdb

@@ -5,12 +5,12 @@ using Sorting;
 namespace TestingProject
 {
     [TestClass]
-    public class SelectionSortTest
+    public class InsertionSortTest
     {
         [TestMethod]
-        public void testSelectionIntSorting()
+        public void testInesrtionIntSorting()
         {
-            SortingTest testClass = new SortingTest(new SelectionSort());
+            SortingTest testClass = new SortingTest(new InesrtionSort());
             testClass.testIntSorting();
         }
 
