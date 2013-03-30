@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnionFindTests", "UnionFind\UnionFindTests.csproj", "{FF919300-D973-494C-8E97-6D1654BE84A7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnionFindTests", "UnionFindTests\UnionFindTests.csproj", "{FF919300-D973-494C-8E97-6D1654BE84A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnionFind", "QuickUnion\UnionFind.csproj", "{D228B535-A150-4CDD-B332-FC8A4F292C6C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnionFind", "UnionFind\UnionFind.csproj", "{D228B535-A150-4CDD-B332-FC8A4F292C6C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
