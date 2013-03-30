@@ -16,16 +16,20 @@ namespace TestingProject
             this.sorter = sorter;
         }
 
-
-        public void testIntSorting()
+        public void testIntSorting(int arrLength)
         {
-            int[] arr = {0, 1, 22, 3, 2, 1, 0};
-            int[] refArray = (int[]) arr.Clone();
-            
+            int[] arr = getRandomArrayOfSize(arrLength);
+            int[] refArray = (int[])arr.Clone();
+
             Array.Sort(refArray);
             sorter.Sort(arr);
 
             CollectionAssert.AreEquivalent(refArray, arr);
+        }
+
+        public void testIntSorting()
+        {
+            testIntSorting(8);
         }
 
         public double performanceGrowth()
@@ -85,5 +89,7 @@ namespace TestingProject
 
             return (XbyY - xSum * ySum / size)  / (sqrX - xSum * xSum / size);
         }
+
+
     }
 }

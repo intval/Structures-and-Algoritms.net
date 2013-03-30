@@ -6,8 +6,15 @@ using System.Threading.Tasks;
 
 namespace Sorting
 {
-    public interface ISort
+    public abstract class ISort
     {
-        void Sort<T>(T[] arr) where T : IComparable;
+        public abstract void Sort<T>(T[] arr) where T : IComparable;
+
+        protected void exch<T>(T[] array, int from, int to)
+        {
+            T temp = array[to];
+            array[to] = array[from];
+            array[from] = temp;
+        }
     }
 }

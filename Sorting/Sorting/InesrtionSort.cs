@@ -8,19 +8,12 @@ namespace Sorting
 {
     public class InesrtionSort : ISort
     {
-        public void Sort<T>(T[] arr) where T : IComparable
+        public override void Sort<T>(T[] arr) 
         {
             for (int i = 1; i < arr.Length; i++)
                 for (int j = i - 1; j >= 0; j--)
                     if (arr[i].CompareTo(arr[j]) < 1)
                         exch(arr, i, j);
-        }
-
-        private void exch<T>(T[] array, int from, int to)
-        {
-            T temp = array[to];
-            array[to] = array[from];
-            array[from] = temp;
         }
     }
 }

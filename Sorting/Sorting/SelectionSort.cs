@@ -8,32 +8,25 @@ namespace Sorting
 {
     public class SelectionSort : ISort
     {
-        public void Sort<T>(T[] array) where T: IComparable
+        public override void Sort<T>(T[] arr) 
         {
-            for (int i = 0, L = array.Length; i < L; i++)
+            for (int i = 0, L = arr.Length; i < L; i++)
             {
-                T min = array[i];
+                T min = arr[i];
                 int minPos = i;
 
                 for (int j = i+1; j < L; j++)
                 {
-                    if (min.CompareTo(array[j]) > 0)
+                    if (min.CompareTo(arr[j]) > 0)
                     {
-                        min = array[j];
+                        min = arr[j];
                         minPos = j;
                     }
                 }
 
                 if (minPos > i)
-                    exch(array, i, minPos);
+                    exch(arr, i, minPos);
             }
-        }
-
-        private void exch<T>(T[] array, int from, int to)
-        {
-            T temp = array[to];
-            array[to] = array[from];
-            array[from] = temp;
         }
     }
 }

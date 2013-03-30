@@ -53,6 +53,7 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="ShellSortTest.cs" />
     <Compile Include="InsertionSortTest.cs" />
     <Compile Include="SortingTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
